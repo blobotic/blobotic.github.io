@@ -1,0 +1,7 @@
+.line:after {
+	display: block;
+	max-width: 1em;
+	margin-top: 0.1em;
+	border-bottom: 0.125rem solid hsl(195, 85%, 41%);
+	content: "";
+}
