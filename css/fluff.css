@@ -5,3 +5,14 @@
 	border-bottom: 0.125rem solid hsl(195, 85%, 41%);
 	content: "";
 }
+
+
+@media (min-width: 1200px) {
+	.container {
+		max-width: 920px;
+	}
+}
+
+nav {
+	border-bottom: solid rgba(115, 130, 140, 0.2) 1.5px;
+}
